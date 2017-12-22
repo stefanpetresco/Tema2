@@ -1,2 +1,2 @@
 # Tema2
-aici este programul cu tema 2
+In acest repository veti gasi programul pt tema nr 2 :)
